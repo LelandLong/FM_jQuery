@@ -19,6 +19,6 @@ Implement various jQuery library functions into FileMaker Pro webviewers.
 
 #### Dependancies
 
-This database uses the Javascript Library "jQuery" (https://jquery.com)
+This database uses the JavaScript Library "jQuery" (https://jquery.com)
 
-This database is completely self contained and all the required Javascript Library data has been stored locally in the database.
+This database is completely self contained and all the required JavaScript Library data has been stored locally in the database.
